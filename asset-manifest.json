@@ -1,14 +1,13 @@
 {
-  "main.css": "/moveReact/static/css/main.f2da142c.chunk.css",
-  "main.js": "/moveReact/static/js/main.d50fcf13.chunk.js",
-  "main.js.map": "/moveReact/static/js/main.d50fcf13.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/moveReact/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/moveReact/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/moveReact/static/css/main.953b29a8.chunk.css",
+  "main.js": "/moveReact/static/js/main.c490b45b.chunk.js",
+  "main.js.map": "/moveReact/static/js/main.c490b45b.chunk.js.map",
+  "static/js/1.5ef3b900.chunk.js": "/moveReact/static/js/1.5ef3b900.chunk.js",
+  "static/js/1.5ef3b900.chunk.js.map": "/moveReact/static/js/1.5ef3b900.chunk.js.map",
   "runtime~main.js": "/moveReact/static/js/runtime~main.0566ef19.js",
   "runtime~main.js.map": "/moveReact/static/js/runtime~main.0566ef19.js.map",
-  "static/media/logo.svg": "/moveReact/static/media/logo.5d5d9eef.svg",
-  "static/css/main.f2da142c.chunk.css.map": "/moveReact/static/css/main.f2da142c.chunk.css.map",
+  "static/css/main.953b29a8.chunk.css.map": "/moveReact/static/css/main.953b29a8.chunk.css.map",
   "index.html": "/moveReact/index.html",
-  "precache-manifest.ae42b9139a998a015afc1588e979edc5.js": "/moveReact/precache-manifest.ae42b9139a998a015afc1588e979edc5.js",
+  "precache-manifest.4fbcc098c24f877be33526ef2534109a.js": "/moveReact/precache-manifest.4fbcc098c24f877be33526ef2534109a.js",
   "service-worker.js": "/moveReact/service-worker.js"
 }
